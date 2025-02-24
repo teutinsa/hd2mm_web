@@ -1,5 +1,5 @@
 @echo off
 
-flutter pub get
-flutter gen-l10n
-flutter run
+CALL flutter pub get
+CALL flutter gen-l10n
+CALL flutter run
